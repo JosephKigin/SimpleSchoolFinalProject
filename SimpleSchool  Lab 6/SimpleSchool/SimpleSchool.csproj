@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5A5CBFEA-EEB0-4880-A80E-758B9AAC9A4C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SimpleSchool</RootNamespace>
+    <AssemblyName>SimpleSchool</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Block.cs" />
+    <Compile Include="BlockTest.cs" />
+    <Compile Include="CourseDA.cs" />
+    <Compile Include="CourseDATest.cs" />
+    <Compile Include="frmBlockGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBlockGUI.Designer.cs">
+      <DependentUpon>frmBlockGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDayGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDayGUI.Designer.cs">
+      <DependentUpon>frmDayGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFindDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFindDay.Designer.cs">
+      <DependentUpon>frmFindDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeSlot.cs" />
+    <Compile Include="_Class.cs" />
+    <Compile Include="CourseClassesTest.cs" />
+    <Compile Include="CourseTest.cs" />
+    <Compile Include="Course.cs" />
+    <Compile Include="Day.cs" />
+    <Compile Include="DayTest.cs" />
+    <Compile Include="Enrollment.cs" />
+    <Compile Include="EnrollmentTest.cs" />
+    <Compile Include="frmResultsDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResultsDisplay.Designer.cs">
+      <DependentUpon>frmResultsDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSimpleSchool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSimpleSchool.Designer.cs">
+      <DependentUpon>frmSimpleSchool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instructor.cs" />
+    <Compile Include="InstructorClassesTest.cs" />
+    <Compile Include="InstructorOfficeTest1.cs" />
+    <Compile Include="InstructorOfficeTest2.cs" />
+    <Compile Include="Room.cs" />
+    <Compile Include="RoomTest.cs" />
+    <Compile Include="SimpleSchool.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="StudentTest.cs" />
+    <EmbeddedResource Include="frmBlockGUI.resx">
+      <DependentUpon>frmBlockGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDayGUI.resx">
+      <DependentUpon>frmDayGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFindDay.resx">
+      <DependentUpon>frmFindDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResultsDisplay.resx">
+      <DependentUpon>frmResultsDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSimpleSchool.resx">
+      <DependentUpon>frmSimpleSchool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

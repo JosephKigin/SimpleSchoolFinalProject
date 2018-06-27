@@ -1,0 +1,97 @@
+\\cp-stud-nas1\users\joseph.kigin\documents\visual studio 2012\Projects\SimpleSchool\SimpleSchool\bin\Debug\SimpleSchool.exe.config
+\\cp-stud-nas1\users\joseph.kigin\documents\visual studio 2012\Projects\SimpleSchool\SimpleSchool\bin\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\documents\visual studio 2012\Projects\SimpleSchool\SimpleSchool\bin\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\documents\visual studio 2012\Projects\SimpleSchool\SimpleSchool\obj\Debug\SimpleSchool.csprojResolveAssemblyReference.cache
+\\cp-stud-nas1\users\joseph.kigin\documents\visual studio 2012\Projects\SimpleSchool\SimpleSchool\obj\Debug\SimpleSchool.frmSimpleSchool.resources
+\\cp-stud-nas1\users\joseph.kigin\documents\visual studio 2012\Projects\SimpleSchool\SimpleSchool\obj\Debug\SimpleSchool.Properties.Resources.resources
+\\cp-stud-nas1\users\joseph.kigin\documents\visual studio 2012\Projects\SimpleSchool\SimpleSchool\obj\Debug\SimpleSchool.csproj.GenerateResource.Cache
+\\cp-stud-nas1\users\joseph.kigin\documents\visual studio 2012\Projects\SimpleSchool\SimpleSchool\obj\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\documents\visual studio 2012\Projects\SimpleSchool\SimpleSchool\obj\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2012\Projects\SimpleSchool  Lab 2\SimpleSchool\bin\Debug\SimpleSchool.exe.config
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2012\Projects\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2012\Projects\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2012\Projects\SimpleSchool  Lab 2\SimpleSchool\bin\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2012\Projects\SimpleSchool  Lab 2\SimpleSchool\bin\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2012\Projects\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.csprojResolveAssemblyReference.cache
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2012\Projects\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.frmSimpleSchool.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2012\Projects\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.Properties.Resources.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2012\Projects\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.csproj.GenerateResource.Cache
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\bin\Debug\SimpleSchool.exe.config
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.csprojResolveAssemblyReference.cache
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.frmResultsDisplay.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.frmSimpleSchool.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.Properties.Resources.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.csproj.GenerateResource.Cache
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\bin\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\bin\Debug\SimpleSchool.pdb
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\bin\Debug\SimpleSchool.exe.config
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.exe
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.pdb
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\bin\Debug\SimpleSchool.exe
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\bin\Debug\SimpleSchool.pdb
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.frmResultsDisplay.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.frmSimpleSchool.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.Properties.Resources.resources
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.csproj.GenerateResource.Cache
+\\Client\E$\Programming 2\SimpleSchool  Lab 2\SimpleSchool\bin\Debug\SimpleSchool.exe.config
+\\Client\E$\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.exe
+\\Client\E$\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.pdb
+\\Client\E$\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.csprojResolveAssemblyReference.cache
+\\Client\E$\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.frmResultsDisplay.resources
+\\Client\E$\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.frmSimpleSchool.resources
+\\Client\E$\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.Properties.Resources.resources
+\\Client\E$\Programming 2\SimpleSchool  Lab 2\SimpleSchool\obj\Debug\SimpleSchool.csproj.GenerateResource.Cache
+\\Client\E$\Programming 2\SimpleSchool  Lab 2\SimpleSchool\bin\Debug\SimpleSchool.exe
+\\Client\E$\Programming 2\SimpleSchool  Lab 2\SimpleSchool\bin\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 3\SimpleSchool\bin\Debug\SimpleSchool.exe.config
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 3\SimpleSchool\obj\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 3\SimpleSchool\obj\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 3\SimpleSchool\bin\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 3\SimpleSchool\bin\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 3\SimpleSchool\obj\Debug\SimpleSchool.csprojResolveAssemblyReference.cache
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 3\SimpleSchool\obj\Debug\SimpleSchool.frmResultsDisplay.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 3\SimpleSchool\obj\Debug\SimpleSchool.frmSimpleSchool.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 3\SimpleSchool\obj\Debug\SimpleSchool.Properties.Resources.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 3\SimpleSchool\obj\Debug\SimpleSchool.csproj.GenerateResource.Cache
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 4\SimpleSchool\bin\Debug\SimpleSchool.exe.config
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 4\SimpleSchool\bin\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 4\SimpleSchool\bin\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 4\SimpleSchool\obj\Debug\SimpleSchool.frmResultsDisplay.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 4\SimpleSchool\obj\Debug\SimpleSchool.frmSimpleSchool.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 4\SimpleSchool\obj\Debug\SimpleSchool.Properties.Resources.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 4\SimpleSchool\obj\Debug\SimpleSchool.csproj.GenerateResource.Cache
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 4\SimpleSchool\obj\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 4\SimpleSchool\obj\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 4\SimpleSchool\obj\Debug\SimpleSchool.csprojResolveAssemblyReference.cache
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 5\SimpleSchool\bin\Debug\SimpleSchool.exe.config
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 5\SimpleSchool\obj\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 5\SimpleSchool\obj\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 5\SimpleSchool\obj\Debug\SimpleSchool.csprojResolveAssemblyReference.cache
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 5\SimpleSchool\obj\Debug\SimpleSchool.frmBlockGUI.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 5\SimpleSchool\obj\Debug\SimpleSchool.frmDayGUI.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 5\SimpleSchool\obj\Debug\SimpleSchool.frmFindDay.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 5\SimpleSchool\obj\Debug\SimpleSchool.frmResultsDisplay.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 5\SimpleSchool\obj\Debug\SimpleSchool.frmSimpleSchool.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 5\SimpleSchool\obj\Debug\SimpleSchool.Properties.Resources.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 5\SimpleSchool\obj\Debug\SimpleSchool.csproj.GenerateResource.Cache
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 5\SimpleSchool\bin\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 5\SimpleSchool\bin\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 6\SimpleSchool\bin\Debug\SimpleSchool.exe.config
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 6\SimpleSchool\obj\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 6\SimpleSchool\obj\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 6\SimpleSchool\bin\Debug\SimpleSchool.exe
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 6\SimpleSchool\bin\Debug\SimpleSchool.pdb
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 6\SimpleSchool\obj\Debug\SimpleSchool.csprojResolveAssemblyReference.cache
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 6\SimpleSchool\obj\Debug\SimpleSchool.frmBlockGUI.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 6\SimpleSchool\obj\Debug\SimpleSchool.frmDayGUI.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 6\SimpleSchool\obj\Debug\SimpleSchool.frmFindDay.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 6\SimpleSchool\obj\Debug\SimpleSchool.frmResultsDisplay.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 6\SimpleSchool\obj\Debug\SimpleSchool.frmSimpleSchool.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 6\SimpleSchool\obj\Debug\SimpleSchool.Properties.Resources.resources
+\\cp-stud-nas1\users\joseph.kigin\Documents\Visual Studio 2013\Projects\Programming 2\SimpleSchool  Lab 6\SimpleSchool\obj\Debug\SimpleSchool.csproj.GenerateResource.Cache
+C:\Users\Joseph\Documents\Flash Drive Dump\Programming 2\Lab 6\SimpleSchool  Lab 6\SimpleSchool\bin\Debug\SimpleSchool.exe.config
+C:\Users\Joseph\Documents\Flash Drive Dump\Programming 2\Lab 6\SimpleSchool  Lab 6\SimpleSchool\obj\Debug\SimpleSchool.exe
+C:\Users\Joseph\Documents\Flash Drive Dump\Programming 2\Lab 6\SimpleSchool  Lab 6\SimpleSchool\obj\Debug\SimpleSchool.pdb
